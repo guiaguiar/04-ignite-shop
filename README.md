@@ -1,1 +1,1 @@
-# 04-ignite-shop
+An application using Next.Js and Stripe
